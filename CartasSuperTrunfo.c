@@ -1,4 +1,16 @@
 #include <stdio.h>
+int main () {
+
+char estado;
+char codigo[3];
+char cidade[20];
+int população;
+float área;
+float PIB;
+int turisticos;
+
+
+}
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
